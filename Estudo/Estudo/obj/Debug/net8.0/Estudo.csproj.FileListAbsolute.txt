@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\bin\Debug\net8.0\Estudo.exe
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\bin\Debug\net8.0\Estudo.deps.json
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\bin\Debug\net8.0\Estudo.runtimeconfig.json
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\bin\Debug\net8.0\Estudo.dll
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\bin\Debug\net8.0\Estudo.pdb
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.AssemblyInfo.cs
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.dll
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\refint\Estudo.dll
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.pdb
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\Estudo.genruntimeconfig.cache
+C:\Users\Victo\Desktop\PROGRAMAS\C# - Curso Udemy\Reconhecendo c#\Estudo\Estudo\obj\Debug\net8.0\ref\Estudo.dll
