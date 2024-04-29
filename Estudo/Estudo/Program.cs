@@ -7,6 +7,7 @@
             int controlador;
             List<Conta> logins = new List<Conta>();
             Console.WriteLine("Sistema de jogos");
+            Console.WriteLine("Isso é  um clone");
 
             
             do
