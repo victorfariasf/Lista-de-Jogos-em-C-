@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\C# - Curso Udemy\\Reconhecendo c#\\Estudo\\Estudo\\Estudo.csproj",
+      "projectUniqueName": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\Lista de jogos C#\\Estudo\\Estudo\\Estudo.csproj",
       "projectName": "Estudo",
-      "projectPath": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\C# - Curso Udemy\\Reconhecendo c#\\Estudo\\Estudo\\Estudo.csproj",
+      "projectPath": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\Lista de jogos C#\\Estudo\\Estudo\\Estudo.csproj",
       "packagesPath": "C:\\Users\\Victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\C# - Curso Udemy\\Reconhecendo c#\\Estudo\\Estudo\\obj\\",
+      "outputPath": "C:\\Users\\Victo\\Desktop\\PROGRAMAS\\Lista de jogos C#\\Estudo\\Estudo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

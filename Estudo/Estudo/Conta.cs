@@ -53,7 +53,7 @@ namespace Estudo
             int controlador;
             do
             {
-                Console.WriteLine("1. Cadastrar Jogo\n2. Lista de Jogos\n3. Editar Jogos\n4. Sair");
+                Console.WriteLine("1. Cadastrar Jogo\n2. Lista de Jogos\n3. Editar Jogos\n4. Sair\n5. Remover jogos");
                 int op = int.Parse(Console.ReadLine());
                 switch (op)
                 {
@@ -68,6 +68,9 @@ namespace Estudo
                         break;
                     case 4:
                         return;
+                        break;
+                    case 5:
+                        removeGame();
                         break;
                     default:
                         Console.WriteLine("opção inválida");
@@ -172,6 +175,34 @@ namespace Estudo
                     Console.WriteLine("Jogo não encontrado, verifique se esse jogo existe na sua conta");
                 }
             }
+        }
+
+        private void removeGame()
+        {
+            Console.WriteLine("Insira o nome do jogo que você deseja remover");
+            string nameTemp = Console.ReadLine();
+
+            int death = games.FindIndex(x => x.Name == nameTemp);
+            Console.WriteLine("---------------------------------------------------------");
+            Console.WriteLine(games[death]);
+            Console.WriteLine("---------------------------------------------------------");
+            Console.WriteLine("Deseja remover este jogo? (y/n)");
+            char yn = char.Parse(Console.ReadLine());
+
+            if(yn == 'y')
+            {
+                games.RemoveAt(death);
+            }
+            else
+            {
+                Console.WriteLine("Jogo poupado da sua fúria incansável");
+            }
+
+            Console.ReadLine();
+            Console.Clear();
+            listGame();
+
+            
         }
         
     }
